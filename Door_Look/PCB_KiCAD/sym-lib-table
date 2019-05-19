@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name WiHome)(type Legacy)(uri ${KIPRJMOD}/WiHome.lib)(options "")(descr ""))
+  (lib (name BikeLight)(type Legacy)(uri ${KIPRJMOD}/BikeLight.lib)(options "")(descr ""))
+  (lib (name DoorLock)(type Legacy)(uri ${KIPRJMOD}/DoorLock.lib)(options "")(descr ""))
+)

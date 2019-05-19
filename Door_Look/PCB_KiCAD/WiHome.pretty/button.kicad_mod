@@ -1,0 +1,13 @@
+(module button (layer F.Cu) (tedit 585D837B)
+  (fp_text reference S** (at 2.6 9.6) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value button (at 1.4 -5) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_circle (center 2.5 2.4) (end 6.5 7) (layer F.SilkS) (width 0.15))
+  (pad 1 thru_hole circle (at 0 0) (size 2.1 2.1) (drill 1.1) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 5 0) (size 2.1 2.1) (drill 1.1) (layers *.Cu *.Mask))
+  (pad 3 thru_hole circle (at 0 5) (size 2.1 2.1) (drill 1.1) (layers *.Cu *.Mask))
+  (pad 4 thru_hole circle (at 5 5) (size 2.1 2.1) (drill 1.1) (layers *.Cu *.Mask))
+)

@@ -1,0 +1,17 @@
+** Drc report for D:\Dropbox\Fun_Projects\Magnetic_keypad\Door_Lock\Door_Lock.kicad_pcb **
+** Created on  **
+
+** Found 0 DRC errors **
+
+** Found 3 unconnected pads **
+ErrType(2): Unconnected pads
+    @ (7.7698 in,4.5850 in): Pad 3 on F.Cu, Non-copper of U2 net +5V
+    @ (7.6950 in,4.5850 in): Pad 1 on F.Cu, Non-copper of U2
+ErrType(2): Unconnected pads
+    @ (8.2162 in,4.5076 in): Pad 5 on F.Cu, Non-copper of P1 net GND
+    @ (8.2619 in,4.5218 in): Pad 6 on F.Cu, Non-copper of P1
+ErrType(2): Unconnected pads
+    @ (7.5350 in,4.0050 in): Pad 1 on F.Cu, B.Cu, Internal of REF** net GND
+    @ (7.5915 in,4.0077 in): Pad 16 on F.Cu, Non-copper of U7
+
+** End of Report **
